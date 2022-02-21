@@ -18,8 +18,6 @@ In order to simplify programs, we can use 'name' and assign a value to it
 
 Assignment(or bounding value to names) happens in an environment. (global environment)
 
-#
-
 ## Functions
 
 -   a way to keep expressions & values and use it later
@@ -31,3 +29,6 @@ Assignment(or bounding value to names) happens in an environment. (global enviro
 1. create a new environment frame
 2. bind the funcion's parameters to its arguments in that frame
 3. excute the function body
+
+![screenshot from lection 2](https://github.com/lyj-ooz/free-cs/blob/1-programming/1.%20programming/lecture%202/ss.jpg)
+(screenshot above is from lecture 2)
