@@ -25,7 +25,7 @@
     broken_square(4)
     ```
 
-    [ed1](https://github.com/lyj-ooz/free-cs/blob/1-programming/1.%20programming/lecture%204/ed1.jpg)
+    ![ed1](https://github.com/lyj-ooz/free-cs/blob/1-programming/1.%20programming/lecture%204/ed1.jpg)
 
     ```python
     def square(x):
@@ -36,7 +36,7 @@
     sum_of_squares(3)
     ```
 
-    [ed2](https://github.com/lyj-ooz/free-cs/blob/1-programming/1.%20programming/lecture%204/ed2.jpg)
+    ![ed2](https://github.com/lyj-ooz/free-cs/blob/1-programming/1.%20programming/lecture%204/ed2.jpg)
 
 ## Lambda Expressions
 
@@ -51,6 +51,7 @@
     ```
 
 -   exercise (higher-order functions)
+
     ```python
     def make_greeter(name):
         return lambda greeting: print(greeting, name)
@@ -58,4 +59,5 @@
     greeter_function = make_greeter(“Tiffany”)
     greeter_function(“Hey what’s up!”)
     ```
+
 -   higher-order functions (next lecture)
